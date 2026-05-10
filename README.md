@@ -4,7 +4,7 @@
 This project addresses the efficiency gap in small-scale photovoltaic (PV) installations, where fixed mounts often capture only 60-70% of potential solar energy. I developed this low-cost, dual-axis tracking system designed to maintain a 5-15 W panel perpendicular to the sun's rays throughout the diurnal cycle.
 
 ## Technical Design & Specifications
-**Mechanical Structure:** A rigid frame supporting orthogonal azimuth and elevation axes. The frame was fabricated from wood to minimize mass and reduce actuator torque requirements.
+***Mechanical Structure:** A rigid frame supporting orthogonal azimuth and elevation axes. The frame was fabricated from wood to minimize mass and reduce actuator torque requirements.
 **Control Architecture:** A hybrid approach combining LDR sensor feedback for real-time fine-tuning with sun-position logic for robustness during low-light conditions.
 **Actuation:** Dual SG90 servo motors controlled via an Arduino Uno R3.
 
