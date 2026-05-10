@@ -21,5 +21,7 @@ The final design (Design C) was selected through a weighted decision matrix eval
 
 ## Key Outcomes
 **Performance:** Increased potential energy yield by 30-45% compared to static installations.
+
 **Cost Efficiency:** Total system Bill of Materials (BOM) was optimized to approximately 3,270 KSh.
+
 **Accuracy:** Target tracking accuracy within $\pm 2-5^{\circ}$.
